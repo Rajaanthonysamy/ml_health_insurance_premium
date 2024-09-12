@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Raja Anthonysamy
 
-Software Engineer @ Gadgeon Smart Systems
+Data Scientist
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
 - 👯 I will collaborate on ML/AI projects
