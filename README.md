@@ -19,6 +19,5 @@ Data Scientist
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
 
 
